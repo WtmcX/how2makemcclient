@@ -1,24 +1,42 @@
 {
   "version": "3.6.0",
-  "created": "2025-01-04T16:54:21Z",
+  "created": "2025-01-05T07:37:16Z",
   "files": [
     {
       "path": ".nojekyll"
     },
     {
+      "path": "1-hooking-our-client/index.html"
+    },
+    {
+      "path": "2-making-our-module-base/index.html"
+    },
+    {
+      "path": "3-our-first-mod/index.html"
+    },
+    {
+      "path": "4-making-arraylist/index.html"
+    },
+    {
       "path": "404.html"
     },
     {
-      "path": "hooking-our-client/index.html"
+      "path": "5-making-fps-mod/index.html"
+    },
+    {
+      "path": "hooking-our-client/index.html",
+      "old": true
     },
     {
       "path": "index.html"
     },
     {
-      "path": "makng-our-module-base/index.html"
+      "path": "makng-our-module-base/index.html",
+      "old": true
     },
     {
-      "path": "our-first-mod/index.html"
+      "path": "our-first-mod/index.html",
+      "old": true
     },
     {
       "path": "resources/css/retype.css"
@@ -64,6 +82,63 @@
     },
     {
       "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "website/404.html"
+    },
+    {
+      "path": "website/hooking-our-client/index.html"
+    },
+    {
+      "path": "website/index.html"
+    },
+    {
+      "path": "website/makng-our-module-base/index.html"
+    },
+    {
+      "path": "website/our-first-mod/index.html"
+    },
+    {
+      "path": "website/resources/css/retype.css"
+    },
+    {
+      "path": "website/resources/fonts/inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "website/resources/fonts/inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "website/resources/js/config.js"
+    },
+    {
+      "path": "website/resources/js/lunr.js"
+    },
+    {
+      "path": "website/resources/js/prism.js"
+    },
+    {
+      "path": "website/resources/js/retype.js"
+    },
+    {
+      "path": "website/resources/js/search.json"
+    },
+    {
+      "path": "website/resources/lunr.js.license.txt"
+    },
+    {
+      "path": "website/resources/mermaid.js.license.txt"
+    },
+    {
+      "path": "website/resources/prism.js.license.txt"
+    },
+    {
+      "path": "website/resources/retype.js.license.txt"
+    },
+    {
+      "path": "website/resources/retype.license.txt"
+    },
+    {
+      "path": "website/robots.txt"
     }
   ]
 }
